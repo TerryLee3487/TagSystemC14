@@ -1,0 +1,8 @@
+[Command?]
+<document> id set to '2'.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document id='2'>
+</document>
+[Command?]

@@ -1,0 +1,18 @@
+add body1
+id 1
+value 1
+parent
+add body2
+id 2
+value 2
+parent
+quit
+add body 3
+id 3
+value 3
+cut
+find body3
+copy
+list
+up
+print

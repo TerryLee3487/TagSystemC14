@@ -1,0 +1,25 @@
+[Command?]
+<body> is now the current tag.
+[Command?]
+<header1> is now the current tag.
+[Command?]
+<header2> is now the current tag.
+[Command?]
+<header2> value set to 'header2'.
+[Command?]
+<header1> is now the current tag.
+[Command?]
+<header1> id set to '10'.
+[Command?]
+<body> is now the current tag.
+[Command?]
+<body> has the following children:
+- <header1>
+[Command?]
+<body>
+  <header1 id='10'>
+    <header2 value='header2'>
+    </header2>
+  </header1>
+</body>
+[Command?]

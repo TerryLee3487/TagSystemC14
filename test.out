@@ -1,0 +1,56 @@
+[Command?]
+<body1> is now the current tag.
+[Command?]
+<header1> is now the current tag.
+[Command?]
+<header1> id set to '2'.
+[Command?]
+<body1> is now the current tag.
+[Command?]
+<header2> is now the current tag.
+[Command?]
+<header2> id set to '1'.
+[Command?]
+<header2> value set to 'lol'.
+[Command?]
+<body1> is now the current tag.
+[Command?]
+<header3> is now the current tag.
+[Command?]
+<header3> value set to 'blah'.
+[Command?]
+<body1> is now the current tag.
+[Command?]
+<header4> is now the current tag.
+[Command?]
+<header4> id set to '1'.
+[Command?]
+<body1> is now the current tag.
+[Command?]
+<header2> is now the current tag.
+[Command?]
+<header2> is now in the clipboard.
+[Command?]
+<header2> is now the current tag.
+[Command?]
+<subheader1> is now the current tag.
+[Command?]
+<subheader1> value set to 'sub'.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <body1>
+    <header1 id='2'>
+    </header1>
+    <header2 id='1' value='lol'>
+      <header2 id='1' value='lol'>
+        <subheader1 value='sub'>
+        </subheader1>
+      </header2>
+    </header2>
+    <header4 id='1'>
+    </header4>
+  </body1>
+</document>
+[Command?]

@@ -1,0 +1,42 @@
+[Command?]
+<body1> is now the current tag.
+[Command?]
+<body1> id set to '1'.
+[Command?]
+<body1> value set to '1'.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<body2> is now the current tag.
+[Command?]
+<body2> id set to '2'.
+[Command?]
+<body2> value set to '2'.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<body> is now the current tag.
+[Command?]
+[Command?]
+<body> id set to '3'.
+[Command?]
+<body> value set to '3'.
+[Command?]
+<body> is now in the clipboard.
+<document> is now the current tag.
+[Command?]
+[Command?]
+[Command?]
+<document> has the following children:
+- <body1>
+- <body2>
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <body1 id='1' value='1'>
+  </body1>
+  <body2 id='2' value='2'>
+  </body2>
+</document>
+[Command?]

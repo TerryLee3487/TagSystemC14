@@ -1,0 +1,24 @@
+[Command?]
+<body> is now the current tag.
+[Command?]
+<header> is now the current tag.
+[Command?]
+<header> value set to 'CS246'.
+[Command?]
+<body> is now the current tag.
+[Command?]
+<text> is now the current tag.
+[Command?]
+<text> value set to 'Hello'.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <body>
+    <header value='CS246'>
+    </header>
+    <text value='Hello'>
+    </text>
+  </body>
+</document>
+[Command?]

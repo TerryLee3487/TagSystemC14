@@ -1,0 +1,14 @@
+[Command?]
+<header> is now the current tag.
+[Command?]
+<header> id set to '4'.
+[Command?]
+<header> value set to 'v4'.
+[Command?]
+<document> is now the current tag.
+[Command?]
+<document>
+  <header id='4' value='v4'>
+  </header>
+</document>
+[Command?]

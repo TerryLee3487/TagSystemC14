@@ -1,0 +1,14 @@
+[Command?]
+<body> is now the current tag.
+[Command?]
+<body> id set to '2'.
+[Command?]
+<body> id set to '4'.
+[Command?]
+<body> value set to 'v1'.
+[Command?]
+<body> value set to 'v2'.
+[Command?]
+<body id='4' value='v2'>
+</body>
+[Command?]
